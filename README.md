@@ -12,5 +12,24 @@
 
 * 資料庫相關(DBMS)
 
-* 
+* Python
+	* Pandas
+	* Numpy
+	* Matplotlib
+	* Seaborn
+	* Sklearn
+
+* Statistics
+
+* Power BI / Tableau
+
+## 相關證照＆課程
+
+* <a href="https://coursera.org/share/cf74015a6a026936c11a97969800ee7b" target="_blank">Google Data Analytics Certificate</a>
+
+* <a href="https://coursera.org/share/eaf35b79cd1d25cdc064b3e88a27ea64" target="_blank">The Data Scientist’s Toolbox</a>
+
+
+
+
 
